@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flickr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+    <string name="comment">User Comment</string>
+    <string name="stop_refresh">Stop Refresh</string>
+	<string name="url">http://api.flickr.com/services/rest/?</string>
+	<string name="fliker_key">2fca63bb92c271eb16500bcb4883f26a</string>
+	<string name="error_message">Oopes ! There is some issue. Kindly try after sometime</string>
+	<string name="gpssetting_message">GPS is not enabled. Do you want to go to enable</string>
+	<string name="gpssetting_title">GPS Setting</string>
+	<string name="nodata">No Data Available</string>
+	<string name="nocomments">There are no comments</string>
+</resources>
